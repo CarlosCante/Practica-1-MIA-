@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS practica.tmp_country_codes(
+	name VARCHAR(500),
+	iso2 VARCHAR(500),
+	name_name VARCHAR(500),
+	name_aiddata_code VARCHAR(500),
+	name_aiddata_name VARCHAR(500),
+	name_cow_alpha VARCHAR(500),
+	name_cow_numeric VARCHAR(500),
+	name_fao_code VARCHAR(500),
+	name_fips VARCHAR(500),
+	name_geonames_id VARCHAR(500),
+	name_imf_code VARCHAR(500),
+	name_iso2 VARCHAR(500),
+	name_iso3 VARCHAR(500),
+	name_iso_numeric VARCHAR(500),
+	name_oecd_code VARCHAR(500),
+	name_oecd_name VARCHAR(500),
+	name_un_code VARCHAR(500),
+	name_wb_code VARCHAR(500)
+)
